@@ -1,0 +1,5 @@
+Desfazendo commits:
+Desfaça o commit mais recente sem descartar alterações
+Desfaça o commit mais recente e descarte alteraçoes 
+r: git reset HEAD~1
+git reset --hard HEAD~1

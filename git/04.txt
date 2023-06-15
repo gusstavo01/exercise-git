@@ -1,0 +1,2 @@
+crie um arquivo gitignore e especifique quais arquivos devem ser ignorados pelo git
+R:  *.php

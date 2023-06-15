@@ -1,0 +1,6 @@
+Revertendo alterações:
+- Reverta um commit anterior no repositorio
+- Descarte todas as alterações nao comitadas
+
+R: git revert <commit_hash>
+git reset --hard HEAD

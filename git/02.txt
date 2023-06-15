@@ -1,0 +1,8 @@
+02 - Crie um repositorio git em seu computador
+     Adicione um arquivo ao repositorio
+	Faça commit das alterações do arquivo
+
+R: git init 
+   echo. > arquivo.txt
+   git add arquivo.txt
+   git commit -m "Adicionando arquivo.txt"

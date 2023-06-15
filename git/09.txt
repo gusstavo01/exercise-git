@@ -1,0 +1,3 @@
+Visualizando o historico:
+Exiba o historico de commits em seu repositorio, mostrando informações como autor, data e mensagem
+R: git log

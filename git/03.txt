@@ -1,0 +1,8 @@
+Branches: 
+Crie um novo Branck em seu repositorio
+Faça alterações no novo branch
+Faça merge do Branck com o branch principal
+
+R: git checkout -b dev
+   git add index.html
+   git merge master

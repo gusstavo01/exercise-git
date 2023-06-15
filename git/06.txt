@@ -1,0 +1,8 @@
+TRABALHANDO COM REPOSITORIOS REMOTOS
+Crie um repositorio remoto
+Adicione o repositorio remoto com um novo remote em seu repositorio local
+Fasa push de suas alterações para o repositorio remoto
+
+R: 
+git remote add origin <URL_do_repositório_remoto>
+git push -u origin <nome_da_branch>

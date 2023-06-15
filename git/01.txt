@@ -1,0 +1,3 @@
+1- Configure o git em seu computador, fornecendo nome de usuario e email.
+R: git config --global user.name gusstavo01
+git config --global user.email gustavo14parenteagc@gmail.com
