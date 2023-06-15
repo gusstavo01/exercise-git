@@ -1,1 +1,1 @@
-# exercise-git
+# My solution for the GIT exercises
